@@ -270,7 +270,7 @@ ALLOWED_TOPICS = [
     "deposit", "withdrawal", "balance", "payment",
     "tai khoan", "giao dich", "tiet kiem", "lai suat",
     "chuyen tien", "the tin dung", "so du", "vay",
-    "ngan hang", "atm",
+    "ngan hang", "atm", "chuyen khoan", "nap tien", "rut tien", "tin dung",
 ]
 
 BLOCKED_TOPICS = [
